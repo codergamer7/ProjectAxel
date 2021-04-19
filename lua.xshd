@@ -4,7 +4,7 @@
 	<Color name="String" foreground="#fce566" />
 	<Color name="Foreground" foreground="#8b888f" />
 	<Color name="Punctuation" foreground="#fc618d" />
-	<Color name="MethodCall" foreground="#7bd88f" fontWeight="bold"/>
+	<Color name="MethodCall" foreground="#FFAF36ED" fontWeight="bold"/>
 	<Color name="Literals" foreground="#948ae3"/>
 	<Color name="Keywords" fontWeight="bold" foreground="#fc618d" />
 	<Color name="Escapes" foreground="#948ae3" />
@@ -82,6 +82,7 @@
 			<Word>true</Word>
 			<Word>until</Word>
 			<Word>while</Word>
+			<Word>sex</Word>
 		</Keywords>
 
 		<Keywords color="Literals">
