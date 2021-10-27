@@ -90,7 +90,7 @@ Wanwoodia - Contrib
 
 ------------
 
-#### Notes
+#### Notes from 2021 edit
 - "Qaeo" has actually been doxxed recently (July 2021)
 - The "conflict" ended on Febuary 2021
 
