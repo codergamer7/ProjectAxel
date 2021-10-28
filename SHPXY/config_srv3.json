@@ -66,11 +66,11 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": true,
-          "serverName": "srv1.bm1shpxy.workers.dev"
+          "serverName": "srv3.bm1shpxy.workers.dev"
         },
         "wsSettings": {
           "headers": {
-            "Host": "srv1.bm1shpxy.workers.dev"
+            "Host": "srv3.bm1shpxy.workers.dev"
           }
         }
       },
