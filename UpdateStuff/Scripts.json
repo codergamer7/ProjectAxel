@@ -6,7 +6,97 @@
       "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/SimpleAimbotESP.txt\"))()"
    },
    {
-      "title":"Gamesense",
+      "title":"Alt delete",
+      "credits": "by Main_EX",
+      "desc" : "Hold down left alt and click on the part you want to delete. Very simple tool.",
+      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/AltDelete.txt\"))()"
+   },
+   {
+      "title":"Audio logger",
+      "credits": "by bit8bit @ v3rm",
+      "desc" : "A simple audio logger to log audios in game. Kinda useless due to Roblox's audio privacy update.",
+      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/AudioLogger.txt\"))()"
+   },
+   {
+      "title":"Click TP cool",
+      "credits": "by Main_EX",
+      "desc" : "Gives you a tool in your inventory that allows you to teleport by clicking anywhere on the map.",
+      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/ClickTPTool.txt\"))()"
+   },
+   {
+      "title":"Ctrl TP",
+      "credits": "by Main_EX",
+      "desc" : "Also allows you to teleport around. Hold down left ctrl and click where you watnt to teleport to.",
+      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/CtrlTP.txt\"))()"
+   },
+   {
+      "title":"Dex Explorer",
+      "credits": "by Moon",
+      "desc" : "A game explorer which allows you to explore the game. Decompiling not supported.",
+      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/DexExplorer.txt\"))()"
+   },
+   {
+      "title":"ESP",
+      "credits": "by unknown",
+      "desc" : "A very simple ESP script displaying each player's body part.",
+      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/ESP.txt\"))()"
+   },
+   {
+      "title":"Fly",
+      "credits": "by unknown",
+      "desc" : "Press E to fly! May be a bit broken.",
+      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/Fly.txt\"))()"
+   },
+   {
+      "title":"Hair fling",
+      "credits": "by unknown",
+      "desc" : "Fling people using your hair. Warning : may already be patched in some games",
+      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/HairFling.txt\"))()"
+   },
+   {
+      "title":"Hitbox extender",
+      "credits": "by unknown",
+      "desc" : "Simple hitbox extender. Press T to enable it. May not work in all games.",
+      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/HitboxExtender.txt\"))()"
+   },
+   {
+      "title":"Infinite Yield",
+      "credits": "by EdgeIY (I think)",
+      "desc" : "A very well maintained and developed common script with many useful utilities/",
+      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/Infinite%20Yield.txt\"))()"
+   },
+   {
+      "title":"Infinite jump",
+      "credits": "by Main_EX",
+      "desc" : "A very simple script that allows you to infinitely jump.",
+      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/InfiniteJump.txt\"))()"
+   },
+   {
+      "title":"Invisible fling",
+      "credits": "by Diemiers",
+      "desc" : "A script that allows you to fling people invisibly. May not work in all games.",
+      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/InvisibleFling.txt\"))()"
+   },
+   {
+      "title":"Rejoin game",
+      "credits": "by Main_EX",
+      "desc" : "Just an extremely simple script that allows you to rejoin a game quickly",
+      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/Rejoin%20Game.txt\"))()"
+   },
+   {
+      "title":"Revis Admin",
+      "credits": "by a bunch of devs",
+      "desc" : "An old but simple and lightweigh admin command script.",
+      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/RevisAdmin.txt\"))()"
+   },
+   {
+      "title":"Server hop",
+      "credits": "by unknown",
+      "desc" : "A simple script that allows you to server hop.",
+      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/ServerHop.txt\"))()"
+   },
+   {
+      "title":"Gamesense Rework",
       "credits":"by shawnjbragdon @ v3rm",
       "desc" : "An updated script for Phantom Forces. Use ESP if you want to look legit.",
       "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/shawnjbragdon-0/GameSense-Rewritten/root-project/scripts/gamesense.lua\"))()"
