@@ -1,12 +1,14 @@
 [
    {
       "title":"Test script #1",
-      "credits":"User1",
+      "credits": "User1",
+      "desc" : "test script 1",
       "script":"test1"
    },
    {
       "title":"Test script #2",
       "credits":"User2",
+      "desc" : "test script 2",
       "script":"test2"
    }
 ]
