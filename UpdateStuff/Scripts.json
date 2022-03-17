@@ -1,14 +1,14 @@
 [
    {
-      "title":"Test script #1",
-      "credits": "User1",
-      "desc" : "test script 1",
-      "script":"test1"
+      "title":"Aimbot and ESP",
+      "credits": "by unknown creaetor",
+      "desc" : "A very simple aimbot and ESP script that should work in most games.",
+      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/SimpleAimbotESP.txt\"))()"
    },
    {
-      "title":"Test script #2",
-      "credits":"User2",
-      "desc" : "test script 2",
-      "script":"test2"
+      "title":"Gamesense",
+      "credits":"by shawnjbragdon @ v3rm",
+      "desc" : "An updated script for Phantom Forces. Use ESP if you want to look legit.",
+      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/shawnjbragdon-0/GameSense-Rewritten/root-project/scripts/gamesense.lua\"))()"
    }
 ]
