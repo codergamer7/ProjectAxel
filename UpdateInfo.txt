@@ -1,6 +1,35 @@
+MainDab V.14.5 Released! | Build 148 | 31 March 2022
+[1] Added Kato API. Kato API is actually pretty powerful compared to other APIs, so I would recommend you to use it.
+[2] Fixed a small bug in the scripthub I hope no one noticed
+[3] Fixed the usage counter
+[4] Testing a new notice board system, left a nice message there as a start
+
+<------------------------------------------------------------------------------------------------------------------------------------->
+
+MainDab V.14.4 Released! | Build 147 | 21 March 2022
+[1] Added in buttons for MainDab's Discord RPC! When using buttons, your Discord status will show buttons to join MainDab.
+[2] Added in a timer for MainDab's API checker that checks every 10 seconds.
+[3] EasyExploits API checker fixed
+[4] Added topmost option in settings
+[5] Theme and API setting options in registry fixed
+[6] Added upload to pastebin button, execution icon rearrangement
+[7] Added in tooltip
+[8] Added some basic fade in/out animations
+
+<------------------------------------------------------------------------------------------------------------------------------------->
+
+MainDab V.14.3 // BM2.1 Released! | Build 146 | 18 March 2022
+[1] Completely new UI for MainDab
+[2] MainDab's Discord no longer opens when you open MainDab
+[3] Scripthub now JSON intergrated (finally!)
+
+MainDab got a new UI update again, as the UI in MainDab 14.2 was unsatisfactory.
+
+<------------------------------------------------------------------------------------------------------------------------------------->
+
 MainDab V.14.2 Released! | Build 145 | 29 January 2022
-Major MainDab update
-MainDab is now recieving a new UI! Progress has actually been relatively quick, however I do need your feedback on the new UI. There is no need to redownload MainDab.
+Major MainDab update! MainDab is now recieving a new UI! Progress has actually been relatively quick, however I do need your feedback on the new UI. 
+There is no need to redownload MainDab - simply just run it and it will automatically update!
 
 Please do leave comments and suggestions on the new UI in 💡¦suggestions-andbugs. Everything isn't finalised yet. Everything in the new UI is functional, but there is still some work to do.
 
