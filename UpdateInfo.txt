@@ -1,3 +1,23 @@
+MainDab V.14.7 Released! | Build 150 | 9 April 2022
+This update fixes a bug that makes MainDab not open. This was due to an issue in the DiscordRPC code. Thanks to @Chika for reporting this!
+
+<------------------------------------------------------------------------------------------------------------------------------------->
+
+MainDab V.14.6 Released! | Build 149 | 8 April 2022
+This update brings along a lot of requested functions/options and fixes.
+
+[1] Made icons brighter
+[2] WeAreDevs API code fixed/updated
+[3] Kato API fixes added since Kato API devs are lazy
+[4] Injection status added
+[5] Fixed/updated unexpected Client Behaviour fixer
+[6] Added warning for kill Roblox icon
+[7] Add option to disable Discord RPC
+[8] Updated credits
+[9] UI layout slightly changed for the tools section
+[10] MainDab usage counter check fixed
+
+
 MainDab V.14.5 Released! | Build 148 | 31 March 2022
 [1] Added Kato API. Kato API is actually pretty powerful compared to other APIs, so I would recommend you to use it.
 [2] Fixed a small bug in the scripthub I hope no one noticed
