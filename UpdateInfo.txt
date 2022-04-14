@@ -1,3 +1,10 @@
+MainDab V.14.8 SP1 Released! | Build 152 | 14 April 2022
+[1] Kato API module updated/fixed, now using KatoAPI2
+
+This update was rushed in order to fix Kato and EasyExploit API.
+
+<------------------------------------------------------------------------------------------------------------------------------------->
+
 MainDab V.14.8 Released! | Build 151 | 13 April 2022
 [1] Added Oxygen U API (it has a key system tho)
 [2] Fixed Kato API and EasyExploits API
