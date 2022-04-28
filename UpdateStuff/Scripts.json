@@ -42,10 +42,16 @@
       "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/CtrlTP.txt\"))()"
    },
    {
-      "title":"Dex Explorer",
-      "credits": "by Moon",
-      "desc" : "A game explorer which allows you to explore the game. Decompiling not supported.",
-      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/DexExplorer.txt\"))()"
+      "title":"Dark Dex V4",
+      "credits": "by Moon and Courtney",
+      "desc" : "A much less detectable game explorer with more enhancements. Decompiling may not work.",
+      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/DarkDexV4.txt\"))())"
+   },
+   {
+      "title":"Domain X",
+      "credits": "by Sirius",
+      "desc" : "A decent script hub with many games.",
+      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/shlexware/DomainX/main/source\"))()"
    },
    {
       "title":"ESP",
@@ -106,12 +112,6 @@
       "credits": "by unknown",
       "desc" : "A simple script that allows you to server hop.",
       "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/ServerHop.txt\"))()"
-   },
-   {
-      "title":"Domain X",
-      "credits": "by Sirius",
-      "desc" : "A decent script hub with many games.",
-      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/shlexware/DomainX/main/source\"))()"
    },
    {
       "title":"V.G Hub",
