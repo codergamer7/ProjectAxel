@@ -108,6 +108,12 @@
       "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/ServerHop.txt\"))()"
    },
    {
+      "title":"Domain X",
+      "credits": "by Sirius",
+      "desc" : "A decent script hub with many games.",
+      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/shlexware/DomainX/main/source\"))()"
+   },
+   {
       "title":"V.G Hub",
       "credits": "by The3Bakers",
       "desc" : "A script hub with many games. Will not work in unsupported games. ",
