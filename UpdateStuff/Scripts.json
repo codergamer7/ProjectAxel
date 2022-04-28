@@ -45,7 +45,13 @@
       "title":"Dark Dex V4",
       "credits": "by Moon and Courtney",
       "desc" : "A much less detectable game explorer with more enhancements. Decompiling may not work.",
-      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/DarkDexV4.txt\"))())"
+      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/DarkDexV4.txt\"))()"
+   },
+   {
+      "title":"Dark Hub",
+      "credits": "by RandomAdamYT",
+      "desc" : "A popular script hub. However, it has a key system.",
+      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Init\"))()"
    },
    {
       "title":"Domain X",
