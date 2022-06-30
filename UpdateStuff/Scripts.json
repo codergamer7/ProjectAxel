@@ -1,7 +1,7 @@
 [
    {
       "title":"Aimbot and ESP",
-      "credits": "by unknown creaetor",
+      "credits": "by unknown creator",
       "desc" : "A very simple aimbot and ESP script that should work in most games.",
       "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/SimpleAimbotESP.txt\"))()"
    },
@@ -78,7 +78,7 @@
       "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/HairFling.txt\"))()"
    },
    {
-      "title":"Hitbox extender",
+      "title":"Simple hitbox extender",
       "credits": "by unknown",
       "desc" : "Simple hitbox extender. Press T to enable it. May not work in all games.",
       "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/HitboxExtender.txt\"))()"
@@ -102,12 +102,6 @@
       "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/InvisibleFling.txt\"))()"
    },
    {
-      "title":"Rejoin game",
-      "credits": "by MainDab",
-      "desc" : "Just an extremely simple script that allows you to rejoin a game quickly.",
-      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/Rejoin%20Game.txt\"))()"
-   },
-   {
       "title":"Revis Admin",
       "credits": "by a bunch of devs",
       "desc" : "An old but simple and lightweigh admin command script.",
@@ -118,12 +112,5 @@
       "credits": "by unknown",
       "desc" : "A simple script that allows you to server hop.",
       "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/ServerHop.txt\"))()"
-   },
-   {
-      "title":"V.G Hub",
-      "credits": "by The3Bakers",
-      "desc" : "A script hub with many games. Will not work in unsupported games. ",
-      "script":"loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub'))()"
    }
-   
 ]
