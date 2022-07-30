@@ -9,9 +9,9 @@ Please see the [script contribution guide](https://github.com/MainDabRblx/Projec
 
 ### Folders
 All these folders are for seperate stuff, which I'll briefly explain :
-- The AvalonThemes folder are for the AvalonEdit themes (text editor)
 - The ExtraApplications folder are for plugin applications
 - The ScriptStorage folder are for keep scripts needed by the script hub
+- The Themes folder are for the AvalonEdit themes (text editor)
 - The UIThemeImages folder are for the themes images themselves, self explanatory
 - The UIThemes are where the .json files for the themes are kept
 - The UpdateStuff are where the most important MainDab files are kept , those being
