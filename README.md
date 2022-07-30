@@ -2,9 +2,10 @@
 Here are where all files for MainDab are placed. There's no other alternative platform I could really think of and moving to another website is too risky, so I'd imagine this is the best place to put stuff.
 
 ### Theme contribution
-
+Please see the [theme contribution guide](https://github.com/MainDabRblx/ProjectDab/tree/master/UIThemes "theme contribution guide").
 
 ### Scripthub contribution
+Please see the [script contribution guide](https://github.com/MainDabRblx/ProjectDab/tree/master/UpdateStuff "script contribution guide").
 
 
 ### Folders
