@@ -7,7 +7,6 @@ Please see the [theme contribution guide](https://github.com/MainDabRblx/Project
 ### Scripthub contribution
 Please see the [script contribution guide](https://github.com/MainDabRblx/ProjectDab/tree/master/UpdateStuff "script contribution guide").
 
-
 ### Folders
 All these folders are for seperate stuff, which I'll briefly explain :
 - The AvalonThemes folder are for the AvalonEdit themes (text editor)
