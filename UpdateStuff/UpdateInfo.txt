@@ -43,7 +43,7 @@ Actually, this is more of a "2-in-1" thing as this can both download and update 
 
 <------------------------------------------------------------------------------------------------------------------------------------->
 
-MainDab V.14.8 SP4 Released! | Build 154 | 23 May 2022
+MainDab V.14.8 SP4 Released! | Build 155 | 23 May 2022
 This update brings along some fixes. Kinda dissapointing that Kato API got slightly fucked.
 
 [/] Updated Avalon
