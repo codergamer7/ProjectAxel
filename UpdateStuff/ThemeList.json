@@ -1,7 +1,11 @@
 [
-    {
+  {
     "filename": "AestheticMountain.json",
     "themeurl": "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/UIThemes/AestheticMountain.json"
+  },
+  {
+    "filename": "DarkTheme.json",
+    "themeurl": "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/UIThemes/DarkTheme.json"
   },
   {
     "filename": "ThemeDemo.json",
