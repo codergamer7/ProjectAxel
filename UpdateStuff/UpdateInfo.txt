@@ -1,3 +1,23 @@
+== MainDab 15.0 SP4 Released! ==
+
+Build number: 161
+Release date: October 4 2022
+
+Update information
+I am attempting to somehow "perfect" MainDab's UI in one way or another. What's odd is how only other exploit developers don't really like MainDab's UI. Please remember that I'm the only person working on MainDab.
+
+Fixes/removals
+• WeAreDevs API not injecting has been fixed by updating the API dependency
+• Removed the "Unexpected Client Behaviour" fixer since it no longer works
+
+Updates
+• Side icons slightly changed, tell me if it looks odd or not
+• Replaced the "Get Help" icon with the "Help Centre" icon on the home page
+• Updated the tool tab layout to look less weird
+• Added background images for the scripthub
+
+<------------------------------------------------------------------------------------------------------------------------------------->
+
 MainDab V.15.0 SP3 Released! | Build 160 | 28 July 2022
 I was still in the process of updating the general codebase of some stuff but decided I had to push this update since it was too urgent
 
