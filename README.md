@@ -4,7 +4,7 @@ Here are where all files for MainDab are placed. There's no other alternative pl
 ### Theme contribution
 Please see the [theme contribution guide](https://github.com/MainDabRblx/ProjectDab/tree/master/UIThemes "theme contribution guide").
 
-### Scripthub contribution
+### Script Hub contribution
 Please see the [script contribution guide](https://github.com/MainDabRblx/ProjectDab/tree/master/UpdateStuff "script contribution guide").
 
 ### Folders
