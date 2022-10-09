@@ -7,6 +7,13 @@
       "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/!DefaultBackground.png"
    },
    {
+      "title":"Roblox Bedwars",
+      "credits": "by 7GrandDad",
+      "desc" : "A Op Roblox Bedwars Script.",
+      "script":"loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))()",
+      "imgurl" : "https://raw.githubusercontent.com/codergamer7/ProjectDab/master/ScriptStorageImages/!DefaultBackground.png"
+   },
+   {
       "title":"Alt delete",
       "credits": "by MainDab",
       "desc" : "Hold down left alt and click on the part you want to delete. Very simple tool.",
