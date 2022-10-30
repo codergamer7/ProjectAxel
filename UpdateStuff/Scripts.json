@@ -10,7 +10,7 @@
 		"credits": "by 7GrandDad",
 		"desc": "A Op Roblox Bedwars Script.",
 		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua\", true))()",
-		"imgurl": "https://raw.githubusercontent.com/codergamer7/ProjectDab/master/ScriptStorageImages/!DefaultBackground.png"
+		"image": "https://tr.rbxcdn.com/3ab905cb1fce974a041007ee6d08b5c3/768/432/Image/Png"
 	},
 	{
 		"title": "Alt delete",
