@@ -4,5 +4,13 @@
 		"desc": "A Op Roblox Bedwars Script.",
 		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua\", true))()",
 		"image": "https://tr.rbxcdn.com/3ab905cb1fce974a041007ee6d08b5c3/768/432/Image/Png"
+	},
+ 
+ 	{
+		"title": "BloxFruits",
+		"credits": "by Neva",
+		"desc": "A Op bloxfruits script",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/VEZ2/NEVAHUB/main/2/", true))()",
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI-FO_-TwwoJjobi14Ti4kHY7HA31kPfbLXQ&usqp=CAU"
 	}
 ]
